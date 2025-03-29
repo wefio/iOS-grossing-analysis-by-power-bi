@@ -1,6 +1,7 @@
-# iOS-grossing-analysis-by-power-bi
+![pbi](https://github.com/user-attachments/assets/a8d47391-2f94-44e6-b940-9037d7bff74e)# iOS-grossing-analysis-by-power-bi
 用powerbi进行的IOS畅销榜流水分析
-![Uploading p<?xml version="1.0" encoding="utf-8"?>
+
+![Uplo<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1280 800" style="enable-background:new 0 0 1280 800;" xml:space="preserve">
@@ -28,7 +29,8 @@
 <path style="fill:url(#SVGID_00000181051789941355006720000006993570112663705741_);" d="M562,607h-98c-6.6,0-12-5.4-12-12V427
 	c0-6.6,5.4-12,12-12h98c6.6,0,12,5.4,12,12v168C574,601.6,568.6,607,562,607z"/>
 </svg>
-bi.svg…]()
+ading pbi.svg…]()
+
 
 ## 以下是一个简单教程，主要是自学资源指路，因为教程不是很好找
 
