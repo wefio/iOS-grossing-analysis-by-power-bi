@@ -37,7 +37,7 @@ bilibili：孙兴华zz、wujunmin
 ![image](https://github.com/user-attachments/assets/3ab1f909-3321-44bf-9252-7e560eecf11a)
 左侧第三个是建模，第二个是pq，第一个是可视化报表。<br>
 如果你学过大学计算机A，那么你应该已经对数据库有一点初步认识，好处就是，你会学的更快。<br>
-[相关学习资源](https://www.bilibili.com/video/BV1tf4y117Sh/)
+[Access教程 零基础入门教程 Access数据库 Access2016 office365 Access VBA AccessVBA](https://www.bilibili.com/video/BV1tf4y117Sh/)
 你所需要的知识只有：<br>
 1. 什么是数据类型<br>
 2. 数据表之间有什么关系<br>
@@ -47,15 +47,15 @@ bilibili：孙兴华zz、wujunmin
 当你导入了几张表之后，就可以看看数据建模了，建模可能会跟着pq部分一起改<br>
 
 # Power Query(二)
-[相关学习资源](https://www.bilibili.com/video/BV1oa4y1j75e/)<br>
+[【2020年9月合集 全107集】Excel Power Query 零基础入门到M函数 Excel PowerQuery教程](https://www.bilibili.com/video/BV1oa4y1j75e/)<br>
 同样看几集应该就差不多了
 # PBI部分
-[相关学习资源](https://www.bilibili.com/video/BV1W54y1i7dE/)<br>
-[相关学习资源](https://www.bilibili.com/video/BV1r54y1i75n/)<br>
+[跟着孙兴华学习数据分析 第四季 可视化图表 PowerBI进阶篇 Power BI 【本季完】](https://www.bilibili.com/video/BV1W54y1i7dE/)<br>
+[跟着孙兴华学习数据分析 第五季 自定义图表篇 PowerBI进阶篇 Power BI教程 【全季终】](https://www.bilibili.com/video/BV1r54y1i75n/)<br>
 重点在于多看看能用什么图表
 
 # PowerPivot
 （度量值/DAX函数/PP/超级透视）<br>
-[相关学习资源](https://www.bilibili.com/video/BV1YE411E7p3/)<br>
+[孙兴华讲Power BI之DAX神功【DAX原理】 PowerBI教程 PowerPivot通用 DAX函数](https://www.bilibili.com/video/BV1YE411E7p3/)<br>
 看着很难，但是主要是多抄。<br>
 想要华丽的图表可以关注公众号“wujunmin”
