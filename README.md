@@ -35,7 +35,7 @@ bilibili：孙兴华zz、wujunmin
 ![image](https://github.com/user-attachments/assets/3ab1f909-3321-44bf-9252-7e560eecf11a)
 左侧第三个是建模，第二个是pq，第一个是可视化报表。<br>
 如果你学过大学计算机A，那么你应该已经对数据库有一点初步认识，好处就是，你会学的更快。<br>
-[相关学习资源]（https://www.bilibili.com/video/BV1tf4y117Sh/)
+[相关学习资源](https://www.bilibili.com/video/BV1tf4y117Sh/)
 你所需要的知识只有：<br>
 1. 什么是数据类型<br>
 2. 数据表之间有什么关系<br>
