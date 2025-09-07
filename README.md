@@ -9,6 +9,8 @@
 本人不是经管的学生，所以可能有的地方是错误的，请谅解
 
 ## 以下是一个简单教程，主要是自学资源指路，因为教程不是很好找
+# 下载
+[微软商店](https://go.microsoft.com/fwlink/?LinkId=2240819&clcid=0x804&culture=zh-cn&country=cn)
 
 # 相关教程：
 公众号：PowerBI星球、wujunmin<br>
