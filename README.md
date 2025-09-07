@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/444d32b6-e490-4dca-823b-e3b8bed6c8a9)
 ![image](https://github.com/user-attachments/assets/38f0b979-e32f-4d46-93b8-42171408c27a)
 ![image](https://github.com/user-attachments/assets/862e4763-64ba-4f70-9c10-6dfc28d81eba)
-因为老师喜欢看起来复杂的，所以有很多没什么用的东西用来满足老是喜好<br>
+因为老师喜欢看起来复杂的，所以有很多没什么用的东西用来满足老师喜好<br>
 本人不是经管的学生，所以可能有的地方是错误的，请谅解
 
 ## 以下是一个简单教程，主要是自学资源指路，因为教程不是很好找
